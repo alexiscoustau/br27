@@ -1,0 +1,20 @@
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.fotos {
+  background-color: rgba(28, 27, 27, 1);
+}
+
+.controlcepillo {
+  height: 175px;
+  display: flex;
+}
+.cepillo {
+  background-image: url(/src/assets/imagenes/cepillo-removebg-preview.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 300px;
+  height: 300px;
+}

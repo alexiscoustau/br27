@@ -1,0 +1,134 @@
+.servicios {
+  width: 100%;
+  height: 21rem;
+  background-color: black;
+}
+
+.tiposdeservicios {
+  background-image: url("https://res.cloudinary.com/dlgruqssp/image/upload/v1735443503/Component_2-removebg-preview_kzxjyo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 250px;
+}
+.control {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logotipo {
+  background-image: url("https://res.cloudinary.com/dlgruqssp/image/upload/v1735443601/logo_br27_redes_1_os28qt.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 250px;
+  height: 300px;
+}
+.controltijeras {
+  position: absolute;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.tijerasimg {
+  position: absolute;
+  background-image: url("https://res.cloudinary.com/dlgruqssp/image/upload/v1735443632/tijerasimg-removebg-preview_mdp4eb.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 10;
+  width: 412px;
+  height: 300px;
+}
+.control2 {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.filo {
+  background-image: url("https://res.cloudinary.com/dlgruqssp/image/upload/v1735443561/filo_knntoa.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 70px;
+  display: flex;
+}
+
+.titulogaleria {
+  color: rgba(217, 188, 120, 1);
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  .logotipo {
+    width: 0px;
+  }
+  .filo {
+    width: 0px;
+  }
+
+  .tiposdeservicios {
+    width: 190px;
+  }
+  .navajaimg {
+    width: 270px;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+  }
+  .controlnavaja {
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+  }
+  .tijerasimg {
+    width: 250px;
+    height: 180px;
+  }
+  .controltijeras {
+    position: absolute;
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+  }
+  .imgbarberia {
+    width: 0;
+    height: 0;
+  }
+  .franja1 {
+    width: 100%;
+    height: 175px;
+  }
+  .franja2 {
+    width: 100%;
+    height: 175px;
+  }
+  .control {
+    width: 100%;
+    height: 165px;
+  }
+  .titulogaleria {
+    margin-top: 55px;
+  }
+  .cepillo {
+    width: 150px;
+    height: 150px;
+  }
+  .controlcepillo {
+    justify-content: center;
+    align-items: center;
+  }
+  .imgbarberiacontrol {
+    width: 0px;
+    height: 0px;
+  }
+  .texto {
+    width: 70%;
+  }
+  .franjanosotros {
+    width: 0px;
+    height: 0px;
+  }
+}
