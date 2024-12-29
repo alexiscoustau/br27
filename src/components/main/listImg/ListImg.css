@@ -12,7 +12,7 @@
   display: flex;
 }
 .cepillo {
-  background-image: url(/src/assets/imagenes/cepillo-removebg-preview.png);
+  background-image: url("https://res.cloudinary.com/dlgruqssp/image/upload/v1735443457/cepillo-removebg-preview_mdrbqj.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 300px;
