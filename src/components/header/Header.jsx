@@ -12,7 +12,7 @@ const Header = () => {
             <div className="hero text-center"></div>
             <a
               className="botonwp animate__animated animate__backInLeft"
-              href="https://wa.me/+5491171251704/?text=Hola%20BR27%20me%20gustaria%20reservar%20un%20turno"
+              href="https://wa.me/+5491167059505/?text=Hola%20BR27%20me%20gustaria%20reservar%20un%20turno"
               target="_blank"
             >
               <i className="fa fa-whatsapp "></i> Reserva tu turno
