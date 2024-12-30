@@ -10,8 +10,8 @@ const Nosotros = () => {
           <h2 className="titulo text-center info ">NOSOTROS</h2>
           <br />
           <h4 className="info text-center descripcion ">
-            NOS DEDICAMOS AL SERVICIOS DE LA ESTETICA MASCULINA CON LOS MEJORES
-            PRODUCTOS Y TECNICAS EN TENDENCIA , NUESTRA VISION ESTA BASADA EN EL
+            NOS DEDICAMOS AL SERVICIO DE LA ESTETICA MASCULINA CON LOS MEJORES
+            PRODUCTOS Y TECNICAS EN TENDENCIA . NUESTRA VISION ESTA BASADA EN EL
             COMPROMISO Y EL PERFECCIONAMIENTO CONSTANTE PARA DARTE UNA BUENA
             IMAGEN.
           </h4>
